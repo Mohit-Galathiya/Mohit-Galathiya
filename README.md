@@ -19,52 +19,58 @@
 - **App Enhancement:** Creating new application with unique ideas and it will be helpful for solve people's problems.
 - **Continued Learning:** Completing all DSA Topics and Solve All DSA question by following Apna College DSA Sheet.
   * [Apna College DSA Course/Sheet]( https://bit.ly/DSAbyApnaCollege) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/18" alt="Progress bar" />
-  
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Galathiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-Galathiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohit-Galathiya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Galathiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Galathiya&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Galathiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
  
 ## Projects I'll Be Targeting to Complete & Publish: <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="30">
 - **[MGR Shopping App](https://github.com/Mohit-Galathiya) (Android):** Users seamless and securely do shopping"<img align="center" src="https://media0.giphy.com/media/fwngit79a9VCjsSE43/200w.gif?cid=6c09b952vph2nxn451a9aepaoklsm58k4jqe5sw2xm3nsvts&ep=v1_gifs_search&rid=200w.gif&ct=g" width="30">
 
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohit-Galathiya&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+## ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote"/>
+</p>
+
+## 🔝 Top Contributions:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mohit-Galathiya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+
+
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
-[<img align="left" alt="Mohit-Galathiya | Twitter" width="26px" src="https://github.com/Mohit-Galathiya/Mohit-Galathiya/blob/main/icons/twitter.png"/>][twitter]
-[<img align="left" alt="Mohit-Galathiya | LinkedIn" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Mohit-Galathiya | Instagram" width="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="Mohit-Galathiya | Medium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />][Leetcode]
-[<img align="left" alt="Mohit-Galathiya | Medium" height="22px" src="https://github.com/MohitGalathiya/Mohit-Galathiya/blob/main/icons/stackoverflow.png" />][stackoverflow]
-<br />
-<br />
+<a href="https://twitter.com/Mohit_Galathiya" target="_blank">
+  <img align="left" alt="Mohit-Galathiya | Twitter" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohit-galathiya/" target="_blank">
+  <img align="left" alt="Mohit-Galathiya | LinkedIn" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png" />
+</a>
+
+<a href="https://leetcode.com/u/9BxatLryFU/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Mohit-Galathiya | LeetCode" width="26px" />
+</a>
+
+<a href="https://stackoverflow.com/users/1234567/mohit-galathiya" target="_blank">
+  <img align="left" alt="Mohit-Galathiya | StackOverflow" height="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/stackoverflow.png" />
+</a>
+
+
+<br>
+
 
 ### Languages and Tools:
 <p>
@@ -82,7 +88,7 @@
 </p>
 
 [twitter]: https://twitter.com/
-[instagram]: https://instagram.com/galathiyamohit
+[instagram]: [https://instagram.com/](https://www.instagram.com/galathiyamohit/profilecard/?igsh=MWV3MzRyc21waml6ag==)
 [linkedin]: https://linkedin.com/in/
 [stackoverflow]: https://stackoverflow.com/
-[Leetcode]: https://leetcode.com/u/Mohit_Galathiya/
+[Leetcode]: [https://leetcode.com/u/Mohit_Galathiya/](https://leetcode.com/u/Mohit_Galathiya/)

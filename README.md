@@ -60,7 +60,7 @@
   <img align="left" alt="Mohit-Galathiya | LinkedIn" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png" />
 </a>
 
-<a href="https://leetcode.com/u/9BxatLryFU/" target="_blank">
+<a href="https://leetcode.com/u/Mohit_Galathiya/" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Mohit-Galathiya | LeetCode" width="26px" />
 </a>
 

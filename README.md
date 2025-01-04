@@ -64,7 +64,7 @@
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Mohit-Galathiya | LeetCode" width="26px" />
 </a>
 
-<a href="https://stackoverflow.com/users/1234567/mohit-galathiya" target="_blank">
+<a href="https://stackoverflow.com/users/29052675/mohit-galathiya" target="_blank">
   <img align="left" alt="Mohit-Galathiya | StackOverflow" height="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/stackoverflow.png" />
 </a>
 

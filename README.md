@@ -73,19 +73,20 @@
 
 
 ### Languages and Tools:
-<p>
-<img align="left" alt="Android" title="Android" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
-<img align="left" alt="Kotlin" title="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />&nbsp;
-<img align="left" alt="Java" title="Java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />&nbsp;
- <img align="left" alt="Git" title="Git" width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
- </p>
-<br />
- <p>
-<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
-<img align="left" alt="Firebase" title="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />&nbsp;
-<img align="left" alt="SQL" title="SQL" width="40" height="40" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/sql.png" />&nbsp;
-<img align="left" alt="Postman" title="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;
+<p align="left">
+  <img alt="Android" title="Android" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+  <img alt="Kotlin" title="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+  <img alt="Java" title="Java" width="40" height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+  <img alt="Git" title="Git" width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 </p>
+
+<p align="left">
+  <img alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img alt="Firebase" title="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+  <img alt="MongoDB" title="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img alt="Postman" title="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+</p>
+
 
 [twitter]: https://twitter.com/
 [instagram]: [https://instagram.com/](https://www.instagram.com/galathiyamohit/profilecard/?igsh=MWV3MzRyc21waml6ag==)

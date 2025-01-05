@@ -52,7 +52,7 @@
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
-<a href="https://x.com/MohitGalathiya?t=5QtiDOPaTYZjhgk6wHx1Qw&s=09" target="_blank">
+<a href="https://x.com/MohitGalathiya" target="_blank">
   <img align="left" alt="Mohit-Galathiya | Twitter" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>
 </a>
 
